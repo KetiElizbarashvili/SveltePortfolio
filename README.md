@@ -6,7 +6,7 @@ $ git clone https://github.com/Ladvace/SvelteKit-Portfolio
 
 ```
 # Go into the repository
-$ cd SvelteKit-Portfolio
+$ cd SveltePortfolio
 ```
 
 ```
