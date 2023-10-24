@@ -1,7 +1,7 @@
 
 ```
 # Clone this repository
-$ git clone https://github.com/Ladvace/SvelteKit-Portfolio
+$ git clone https://github.com/KetiElizbarashvili/SveltePortfolio
 ```
 
 ```
