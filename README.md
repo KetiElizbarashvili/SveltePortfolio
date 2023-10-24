@@ -1,7 +1,6 @@
 
 ```
 # Clone this repository
-$ git clone https://github.com/Ladvace/SvelteKit-Portfolio
 ```
 
 ```
