@@ -29,7 +29,7 @@
 					{project.description}
 				</p>
 				<a href={project.url} target="_blank" rel="noreferrer">
-					<div class="button">Project url =></div>
+					<div class="button">Linkedin =></div>
 				</a>
 			</div>
 		{/each}
