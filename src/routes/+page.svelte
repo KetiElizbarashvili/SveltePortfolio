@@ -10,7 +10,7 @@
 	<title>keto</title>
 </svelte:head>
 <main>
-	<h1>Hi! <br /> me var keto vici kodis cera</h1>
+	<h1>Hello! <br />I'm Keti Elizbarashvili, a dynamic software engineer with over a year of experience. </h1>
 	<div class="icons">
 		<div
 			role="button"
@@ -28,7 +28,7 @@
 		</div>
 
 		<a
-			href="https://github.com/KetiElizbarshvili"
+			href="https://github.com/KetiElizbarashvili"
 			aria-label="GitHub"
 			target="_blank"
 			rel="noopener noreferrer"
@@ -38,7 +38,7 @@
 			</div>
 		</a>
 		<a
-			href=""
+			href="https://www.linkedin.com/in/keti-e-90669b216/"
 			aria-label="Linkedin"
 			target="_blank"
 			rel="noopener noreferrer"
