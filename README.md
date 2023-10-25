@@ -1,10 +1,7 @@
 
 ```
 # Clone this repository
-<<<<<<< HEAD
 $ git clone https://github.com/KetiElizbarashvili/SveltePortfolio
-=======
->>>>>>> 6bab7532c2156cb8c122ec2e1c71f058ad3cfd20
 ```
 
 ```

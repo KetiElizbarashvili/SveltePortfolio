@@ -121,7 +121,7 @@
 <slot />
 
 <footer>
-	Created by <a class="me" href="/about">keto</a>  with
+	Created by <a class="me" href="/about">ketieliz</a>  with
 	<span class="svelte">Svelte</span>
 </footer>
 

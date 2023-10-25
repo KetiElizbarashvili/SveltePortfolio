@@ -3,25 +3,17 @@
 </script>
 
 <svelte:head>
-	<title>Gianmarco Cavallo - Privacy policy</title>
+	<title>Keti Eliz</title>
 </svelte:head>
 
 <div class="container">
 	<main>
 		<h1>Privacy Policy</h1>
-		<p>Last updated: November 01, 2021</p>
 		<p>
 			This Privacy Policy describes Our policies and procedures on the collection, use and
 			disclosure of Your information when You use the Service and tells You about Your privacy
 			rights and how the law protects You.
-		</p>
-		<p>
-			We use Your Personal data to provide and improve the Service. By using the Service, You agree
-			to the collection and use of information in accordance with this Privacy Policy. This Privacy
-			Policy has been created with the help of the <a
-				href="https://www.termsfeed.com/privacy-policy-generator/"
-				target="_blank">Privacy Policy Generator</a
-			>.
+
 		</p>
 		<h1>Interpretation and Definitions</h1>
 		<h2>Interpretation</h2>
@@ -42,7 +34,7 @@
 			<li>
 				<p>
 					<strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot;
-					or &quot;Our&quot; in this Agreement) refers to Gianmarco Cavallo.
+					or &quot;Our&quot; in this Agreement) refers to Keti Eliz.
 				</p>
 			</li>
 			<li>
@@ -87,8 +79,8 @@
 			</li>
 			<li>
 				<p>
-					<strong>Website</strong> refers to Gianmarco Cavallo, accessible from
-					<a href="gianmarco.xyz" rel="external nofollow noopener" target="_blank">gianmarco.xyz</a>
+					<strong>Website</strong> refers to Keti Eliz, accessible from
+					<a href="ketieliz.xyz" rel="external nofollow noopener" target="_blank">ketieliz.xyz</a>
 				</p>
 			</li>
 			<li>

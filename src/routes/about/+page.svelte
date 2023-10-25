@@ -10,7 +10,7 @@
 	<main>
 		<h1>About</h1>
 		<p>
-			me var keto programisti
+			I currently hold over a year of professional experience in the software development field, which has given me the opportunity to work on a variety of projects and expand my technical skill set.
 		</p>
 		<h2>Skills</h2>
 		{#each Object.entries(skills) as [section, technologies]}

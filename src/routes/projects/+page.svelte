@@ -3,15 +3,13 @@
 </script>
 
 <svelte:head>
-	<title>keto— Projects</title>
+	<title>Experience</title>
 </svelte:head>
 
 <div class="projectContainer">
 	<div class="projects">
-		<h1>Projects</h1>
-		<p class="note">
-			notebi proektebis.
-		</p>
+		<h1>Projects and Experience</h1>
+
 		{#each projects as project}
 			<div class="project">
 				<div class="header">
