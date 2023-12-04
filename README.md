@@ -1,4 +1,4 @@
-
+live - https://lively-axolotl-754623.netlify.app/about
 ```
 # Clone this repository
 $ git clone https://github.com/KetiElizbarashvili/SveltePortfolio
